@@ -23,7 +23,7 @@ module.exports = function(environment) {
 
       // Stratum mining endpoint
       StratumHost: 'octa.redecoin.eu',
-      StratumPort: 9393,
+      StratumPort: 9191,
 
       // Fee and payout details
       PoolFee: '0.5%',
